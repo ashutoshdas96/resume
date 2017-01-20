@@ -8,7 +8,7 @@ This templete is based on [**Awesome CV**](https://github.com/posquit0/Awesome-C
 ## Preview
 You can see [PDF](https://raw.githubusercontent.com/ashutoshdas96/resume/master/Ashutosh_Das_Resume.pdf)
 
-![alt tag](https://raw.githubusercontent.com/ashutoshdas96/resume/master/Ashutosh_Das_Resume.pdf)
+![alt tag](https://raw.githubusercontent.com/ashutoshdas96/resume/master/preview.png)
 
 ## Credit
 ### LaTeX
