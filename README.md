@@ -8,11 +8,7 @@ This templete is based on [**Awesome CV**](https://github.com/posquit0/Awesome-C
 ## Preview
 You can see [PDF](https://raw.githubusercontent.com/ashutoshdas96/resume/master/Ashutosh_Das_Resume.pdf)
 
-{::nomarkdown}
-<div class="pdf-container loaded" data-file="https://raw.githubusercontent.com/ashutoshdas96/resume/master/Ashutosh_Das_Resume.pdf" data-worker="/assets/pdf/worker-ed15c087c3ecede4bf4c64b2a66c7144.js" data-bcmap-dir="https://render.githubusercontent.com/pdf/">
-<canvas class="pdf-page" data-page="0" height="2828" width="2000"></canvas>
-</div>
-{:/}
+![alt tag](https://raw.githubusercontent.com/ashutoshdas96/resume/master/Ashutosh_Das_Resume.pdf)
 
 ## Credit
 ### LaTeX
