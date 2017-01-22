@@ -698,3 +698,8 @@
       \letterenclosurestyle{\@letterenclname:  \@letterenclosure} \\
     }
 }
+
+% Defines writer's github project (optional)
+% Usage: \githubProject{<github-nick>}
+\newcommand*{\githubProject}[1]{{\href{https://github.com/\@github/#1}{\faGithubSquare\ #1}}}
+
